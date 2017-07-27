@@ -71,7 +71,7 @@ db.serialize(function() {
 				console.log(p2)
 			setTimeout(function() {
 			
-				if (p2 < 2) {
+				if (p2 < 300) {
 					piv ();
 				}
 				else {
