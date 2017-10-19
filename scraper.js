@@ -9,7 +9,7 @@ var p=0; var p2=0;
 
 //db.run("DELETE FROM data");
 
-var currentCount =  "2017-07-12T16:02:48.317354+03:00"
+var currentCount =  "2017-08-17T17:07:45.743733+03:00"
 
 //db.each("SELECT dateModified FROM data ORDER BY dateModified DESC LIMIT 1", function(err, timeStart) {
       
