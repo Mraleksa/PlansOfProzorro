@@ -80,7 +80,7 @@ db.serialize(function() {
 				}, 5000);
 		}		 
 							
-		})
+		}) 
 		.catch( function (error) {
 		console.log("error")
 		piv ();
